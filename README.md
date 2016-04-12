@@ -1,1 +1,9 @@
-# electron_googleAnalytics_sample
+# electronで GoogleAnalyticsで計測するサンプル
+
+```
+$ npm install
+```
+
+```
+$ npm start
+```
